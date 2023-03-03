@@ -1,5 +1,5 @@
 {
-	"short_name": "WDC",
+	"short_name": "WDC | Mobile",
 	"name": "Web Development Creative",
 	"lang": "ru",
 	"description": "Разработка сайтов и контента",
@@ -75,6 +75,17 @@
 			"type": "image/png",
 			"sizes": "16x16"
 		}
+		 {
+ "src": "/tildafavicon.png",
+ "sizes": "144x144",
+ "type": "image/png",
+ "purpose": "maskable"
+ },
+ {
+ "src": "/tildafavicon.png",
+ "type": "image/png",
+ "sizes": "512x512"
+ },
 	],
 	"prefer_related_applications": false
 }
