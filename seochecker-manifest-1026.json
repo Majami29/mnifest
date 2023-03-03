@@ -74,7 +74,7 @@
 			"src": "/tildafavicon.png",
 			"type": "image/png",
 			"sizes": "16x16"
-		}
+		},
 		 {
  "src": "/tildafavicon.png",
  "sizes": "144x144",
@@ -85,7 +85,7 @@
  "src": "/tildafavicon.png",
  "type": "image/png",
  "sizes": "512x512"
- },
+ }
 	],
 	"prefer_related_applications": false
 }
