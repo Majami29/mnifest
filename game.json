@@ -7,7 +7,7 @@
 	"background_color": "#fff",
 	"theme_color": "#fff",
 	"dir": "ltr",
-    "display": "standalone-primary",
+    "display": "standalone",
     "orientation": "landscape",
     "icons": [
     {
