@@ -4,11 +4,11 @@
 	"lang": "ru",
 	"description": "Разработка сайтов и контента | WDC Мобильное приложение",
 	"start_url": "http://wdc-dev.ru/index.html",
-	"background_color": "#004dff",
-	"theme_color": "#004dff",
+	"background_color": "#fff",
+	"theme_color": "#fff",
 	"dir": "ltr",
     "display": "fullscreen",
-    "orientation": "horizontal",
+    "orientation": "landscape",
     "icons": [
     {
       "src": "https://raw.githubusercontent.com/Majami29/mnifest/main/android-icon-192x192-seochecker-manifest-1305.png",
