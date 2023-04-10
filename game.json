@@ -8,7 +8,7 @@
 	"theme_color": "#004dff",
 	"dir": "ltr",
     "display": "fullscreen",
-    "orientation": "any",
+    "orientation": "horizontal",
     "icons": [
     {
       "src": "https://raw.githubusercontent.com/Majami29/mnifest/main/android-icon-192x192-seochecker-manifest-1305.png",
