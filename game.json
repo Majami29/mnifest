@@ -8,7 +8,7 @@
 	"theme_color": "#fffff",
 	"dir": "ltr",
     "display": "standalone",
-    "orientation": "landscape",
+    "orientation": "landscape-primary",
     "icons": [
     {
       "src": "https://raw.githubusercontent.com/Majami29/mnifest/main/android-icon-192x192-seochecker-manifest-1305.png",
