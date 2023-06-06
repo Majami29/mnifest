@@ -37,6 +37,7 @@ self.addEventListener("message", (event) => {
   }
 });
 
+
 self.addEventListener('install', async (event) => {
   event.waitUntil(
     caches.open(CACHE)
@@ -152,7 +153,7 @@ registerRoute(
     ],
   })
 );
-
+self.addEventListener('fetch', function(event) {});
 self.addEventListener('fetch', (event) => {
 	
   if (event.request.mode === 'navigate') {
