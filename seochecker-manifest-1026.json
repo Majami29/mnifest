@@ -17,6 +17,11 @@
       "sizes": "192x192"
     },
     {
+      "src": "https://raw.githubusercontent.com/Majami29/mnifest/main/192.png?raw=true",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
       "src": "https://raw.githubusercontent.com/Majami29/mnifest/main/180.png?raw=true",
       "type": "image/png",
       "sizes": "180x180"
