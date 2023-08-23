@@ -5,6 +5,8 @@
 	"lang": "ru",
 	"description": "Разработка сайтов и контента | WDC Мобильное приложение",
 	"start_url": "http://wdc-dev.ru/mobile/index.html",
+        "capture_links": "existing-client-navigate", 
+    	"scope": "http://wdc-dev.ru",
 	"background_color": "#ffffff",
 	"theme_color": "#ffffff",
 	"dir": "ltr",
